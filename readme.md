@@ -1,2 +1,1 @@
-git readme test
-adding 2nd line
+This project is a simple website made using simple HTML and CSS.
